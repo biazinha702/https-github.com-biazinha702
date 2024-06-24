@@ -4,4 +4,4 @@ meu nome e beatriz rosane de almeida
 - estou me desenvolvemdo na linguagem javascript
 - utilizo esse espaso para minha organização e compartinhamento dos meus projetos desenvolvidos
 - 
-![descrição do GIF](https://www.icegif.com/wp-content/uploads/2023/01/icegif-1544.gif)
+![descrição do GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIhQ70uB-zcgwzth_1DLDN0ly6QA3NmEFzCw&s)
